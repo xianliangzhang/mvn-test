@@ -24,12 +24,6 @@
         </plugins>
     </build>
 
-    <scm>
-        <connection>scm:git:ssh://<User ID>@<Server Address>:<Port>/<Project Name></connection>
-        <url>scm:git:ssh://<User ID>@<Server Address>:<Port>/<Project Name></url>
-        <developerConnection>scm:git:ssh://<User ID>@<Server Address>:<Port>/<Project Name></developerConnection>
-    </scm>
-
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
